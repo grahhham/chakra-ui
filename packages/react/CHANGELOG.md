@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.3.3
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @chakra-ui/system@1.3.1
+  - @chakra-ui/skeleton@1.1.3
+
 ## 1.3.2
 
 ### Patch Changes
